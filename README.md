@@ -20,3 +20,16 @@ packer validate .
 packer build .
 ```
 
+4. Run terraform
+```
+cd ../terraform
+terraform init
+terraform validate
+terraform plan
+terraform apply
+```
+
+Screenshot:
+
+![](attachements/screenshot1.png)
+![](attachements/screenshot2.png)
