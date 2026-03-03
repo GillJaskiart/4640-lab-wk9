@@ -1,5 +1,7 @@
 # 4640 week 9 lab
 
+Group: jaskirat and Chelsie
+
 See lab instructions on D2L
 
 1. Create ssh key:
